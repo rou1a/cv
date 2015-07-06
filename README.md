@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: andrei neculau cv
+title: roula mecherkany cv
 ---
-<div id="timeline-wrapper">
+<!--<div id="timeline-wrapper">
 <div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
   <div class="modal-body">
     <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&font=Rancho-Gudea&maptype=HYBRID&lang=en&start_at_end=true&hash_bookmark=true&gmap_key=AIzaSyDF7hA7nubc497Nus0XUQtbHE79IfFSVmE&height=650' width='100%' height='650' frameborder='0'></iframe>
@@ -10,43 +10,36 @@ title: andrei neculau cv
 </div>
 
 <center><a href="#timeline" role="button" class="btn" data-toggle="modal">click for an interactive timeline of</a></center>
-</div>
+</div>-->
 
-# **andrei** neculau
+# **roula** mecherkany
 
 
 
 > ## about
 
-> 1984-05-04
+> 1986-09-20
 
 > Järla Gårdsväg 19<br>
 > SE-131 61 Nacka<br>
 > Sweden
 
-> <a href="tel:+46-763-400-378">+46 763 400 378</a>
+> <a href="tel:+46-763-400-378">+46 73 577 27 43</a>
 
-> andrei.neculau@gmail.com
+> roula.mecherkany@gmail.com
 
 > [linkedin](http://se.linkedin.com/in/andreineculau)
-> [github](https://github.com/andreineculau)
-> [report card](http://osrc.dfm.io/andreineculau)
-> [twitter](https://twitter.com/andreineculau)
-> [goodreads](http://goodreads.com/andreineculau)
-> [last.fm](http://www.last.fm/user/andreineculau)
-> [delicious](https://delicious.com/andrei.neculau)
-> [timeline](http://timeline.andreineculau.com)
-> [.com](http://andreineculau.com)
+> [twitter](https://twitter.com/rou1a)
+> [.com](http://roula.mecherkany.com)
 
 
 
 > ## languages
 
-> * <span class="more" title="TOEFL iBT 108/120">certified</span> English
+> * <span class="more" title="TOEFL iBT">certified</span> English
 > * learning Swedish
-> * fluent Italian
-> * native Romanian
-> * notions of Spanish & French
+> * fluent French
+> * native Arabic
 
 
 > ## programming
@@ -193,30 +186,10 @@ title: andrei neculau cv
 
 ## papers
 
-#### `2010` **[Course Analytics](http://files.andreineculau.com/education/kth/2.3/Thesis_3_CourseAnalytics_Final.pdf)** `Master Thesis`
-> Leveraging course assessment through data mining of student satisfaction
+#### `2010` **[Social Entrepreneurship in Sweden](papers/master_thesis.pdf)** `Master Thesis`
+> Government Support and Innovation
 
-> *academic quality, academic evaluation, service satisfaction, educational data mining, importance-performance analysis, teaching eﬀectiveness, php, squace, xml*
-
-#### `2009` **[Split Infinitives in Prolog](http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)**
-> Published in Journal of Information Systems & Operations Management
-
-> *split infinitives, logic programming, prolog*
-
-#### `2009` **[Alignment of Business and IS/IT Strategy at Telenor Sweden](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf)**
-> Published in Journal of Information Systems & Operations Management
-
-> *strategic alignment, IS/IT strategy, business strategy, organizational strategy, case study, Telenor*
-
-#### `2009` **[Science is a runner. Philosophy?](http://files.andreineculau.com/education/kth/1.3/POS-IC2002_-_Essay.pdf)**
-> *philosophy, science, essay*
-
-#### `2009` **[Towards Enhanced E-collaboration in Academia](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf)**
-> Published in Journal of Information Systems & Operations Management
-
-> *e-collaboration, academia, requirements, boundaries, holistic*
-
-#### `2008` **Web 2.0 Application for Medical Clinique Management** `Honors Thesis`
+> *social entrepreneurship, social enterprises, government, innovation, Sweden*
 
 
 
