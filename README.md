@@ -24,7 +24,7 @@ title: roula mecherkany cv
 > SE-131 61 Nacka<br>
 > Sweden
 
-> <a href="tel:+46-763-400-378">+46 73 577 27 43</a>
+> <a href="tel:+46 73 577 27 43">+46 73 577 27 43</a>
 
 > roula.mecherkany@gmail.com
 
@@ -42,126 +42,73 @@ title: roula mecherkany cv
 > * native Arabic
 
 
-> ## programming
+> ## other stuff # FIXME
 
-> * since 7 years old
-> * Commodore 64 Basic
-> * Q-Basic
-> * Pascal
-> * C++
-> * FoxPro
-> * Perl
-> * VBScript
-> * PHP
-> * MySQL
 > * ...
-> * certified <span class="more" title="Cisco Certified Network Associate 961/1000">CCNA</span>
-> * JavaScript & co.
-> * BASH
-> * Prolog
-> * Erlang & co.
-> * [HyperREST](https://github.com/hyperrest)
-> * [for-GET HTTP](https://github.com/for-GET)
-> * ...
-> * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
-> * but more importantly, I'm [an automation/DRY geek](https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y)
-> * [doing the hard things](http://sealedabstract.com/rants/do-hard-things/)
 
 <div class="page-break"></div>
 
 
 
-## IT experience
+## experience
 
-#### `2014 -     ` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
-> Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
-> Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
+#### `2014 - 2015` **[True Software Scandinavia AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.truecaller.com)** `CRM Manager`
+> describe truecaller # FIXME
 
-> *erlang, http, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
+> Optimizing verification of new app users  
+> \* Managing partnerships with various SMS providers  
+> \* Identifying improvement opportunities in the verification process  
+> Email campaigns  
+> \* Coordinating template and content creation  
+> \* Coordinating translations  
+> \* Identifying target groups & triggers  
+> \* Carrying out campaign send-outs and evaluations  
+> Push notifications  
+> \* Identifying target groups & coordinating campaigns  
+> \* Cross-promoting apps with push notifications & native ads  
+> Creating & carrying out user surveys  
+> Managing the FAQ page on [truecaller.com/support](https://www.truecaller.com/support)
 
-#### `2013 - 2014` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
-> Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/).
+> *Mailchimp, Mandrill, Jira, Wufoo, OneSky*
 
-> *sencha/extjs, coffeescript, node.js, erlang, http, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
+#### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Marketing`
+> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android
 
-#### `2001 - 2014` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
-> Front- and backoffice duties. Designing and engineering 3 major websites.
+> Regional Marketing Manager (MENA)  
+> \* Tailoring campaigns for recruiting, activating & retaining users  
+> \* Planning and implementing push notifications schedule  
+> \* Executing SMS send outs  
+> \* Localizing social media content  
+> \* Coordinating with local partners  
+> \* Managing customer relations  
+> Marketing Analytics  
+> \* Monitoring KPI's and customer behavior in the CRM system  
+> \* Collecting & managing various data in Excel  
+> \* Analyzing campaign results & adjusting accordingly  
+> \* Producing activity & performance reports  
+> Online & Mobile advertising  
+> \* In charge of the media budget  
+> \* Planning and buying media with different ad networks
 
-> *php, asp, perl, css, js, sencha, photoshop, cms*
+> *Parse, Beepsend, Google Adwords, Facebook ads*
 
-#### `2013 - 2013` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
+#### `2012 - 2012` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Customer Support`
+> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android
 
-#### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
-> Engineering [Klarna Checkout](https://klarna.com/sv/salj-med-klarna/vara-tjanster/klarna-checkout) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
+> Assisted customers in their queries via E-mail, Facebook & Twitter  
+> Resolved customer cases  
+> Updated and re-organized the knowledgebase  
+> Reported tickets
 
-> Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
+> *desk.com, lighthouseapp.com*
 
-> *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
+#### `2010 - 2013` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://www.life-link.org)** `Volunteer`
+> Life-Link is an NGO that promotes cooperation between students around the world through active participation in projects that are vital to our times
 
-#### `2010 - 2011` **Media & News Stockholm AB, Stockholm, <accronym title="Sweden">SWE</accronym>** `System Developer`
-> Engineering a customized social network on top of [SocialEngine](http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/).
-
-> *php, mysql, css, js, mootools, jquery, zend framework, socialengine*
-
-#### `2002 - 2003` **Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>** `Media Project Manager, Developer`
-> *php, mysql, i18n, l10n, cmd, premiere, delphi*
-
-#### `2000 - 2005` **miscellaneous** `Web Developer/Designer`
-> * `2002 - 2005` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
-> * `2002 - 2004` Romanian Red Cross, Galati, <accronym title="Romania">ROU</accronym>
-> * `2004 - 2004` Data-Soft S.A., Galati, <accronym title="Romania">ROU</accronym>
-> * `2000 - 2004` Colegiul National "Vasile Alecsandri", Galati, <accronym title="Romania">ROU</accronym>
-
-> *perl, php, css, mysql, js, photoshop*
-
-
-
-## projects
-
-#### `2013 -     ` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
-> [A Github organization](https://github.com/for-GET) covering PEG grammars, ASTs, parsegens, HTTP algorithms and an FSM for a non-opinionated and comprehensive-spec-coverage HTTP framework, focusing on semantics, and less on the syntax.
-
-> *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
-
-<iframe src="//player.vimeo.com/video/78030876?portrait=0" width="210" height="118" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe width="157" height="118" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="210" height="118" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" frameborder="0" allowfullscreen></iframe>
-
-#### `2012 -     ` **[HyperREST](http://hyperrest.com)** `Father`
-> [A Github organization](https://github.com/hyperrest) covering a set of blog posts and software focused on how-to envision-spec-mock-consume-serve a REST/hypermedia API.
-
-> *REST, API, HTTP, hypermedia, client, server, coffeescript, nodejs*
-
-#### `2009 - 2010` **Snowdrop** `Father`
-> Snowdrop is an academic Information System that merges information from various course management systems in order to provide quick access to vital student information, like messages and schedule.
-
-> *squace, browser, php, xml, mobile, data mining*
-
-> * `2010`[Snowdrop 2.0](http://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc)
-> * `2009` [Snowdrop 1.0 (Codename Klover)](http://www.youtube.com/watch?v=oqe5WCO_Ydw)
-
-#### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
-> A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
-
-<iframe src="//player.vimeo.com/video/45768175?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="//player.vimeo.com/video/45768176?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="//player.vimeo.com/video/45768258?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-#### `2008 - 2009` **Labs** `Widgets`
-* [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
-* [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
-* [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
-* [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
-
-#### `2008 - 2009` **Induction to Kista IT University - KTH & SU** `Facilitator`
-> *knowledge management, wiki, facebook*
-
-#### `2008 - 2009` **Support Community for <span class="more" title="Admissions to Higher Studies in Sweden">studera.nu</span>** `Facilitator`
-> *knowledge management, wiki, facebook*
+> Relationship management  
+> Updating school network database  
+> Managing action reports  
+> Social media
 
 <div class="page-break"></div>
 
@@ -170,17 +117,14 @@ title: roula mecherkany cv
 ## education
 
 #### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.kth.se/en)** `M.Sc.`
-> Engineering and Management of Information Systems.
+> Economics of Innovation and Growth
 
-> Data Warehousing, Web mining, Logic Programming, Knowledge Management, ERP Systems, Requirements Engineering, etc.
+> Courses # FIXME
 
-#### `2007 - 2007` **[University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym>](http://www.ahe.lodz.pl/en)** `Erasmus`
-> Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
+#### `2004 - 2008` **[American University of Beirut, Beirut, <accronym title="Lebanon">LBN</accronym>](http://aud.edu.lb)** `B. Sc.`
+> Economics
 
-#### `2004 - 2008` **[Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym>](http://www.rau.ro/index.php?newlang=english)** `B.Sc.`
-> Computer Science for Business Management. Graduated with the highest GPA in the programme.
-
-> Database, Programming, Web programming, Networking, IT System Design, Expert Systems, Strategic Management, Probability Calculus, Numerical Methods, Statistics, Accounting, Finances, etc.
+> Courses # FIXME
 
 
 
@@ -193,25 +137,16 @@ title: roula mecherkany cv
 
 
 
-## mixed experience
+## skills
 
-#### `2001 - 2007` **.** `Delegate, Speaker`
-> *international citizenship, sustainability, youth engagement*
+#### ` ` **languages** ` `
+> * `Arabic` Native speaker
+> * `English` Speaking fluently and reading/writing with high proficiency
+> * `French` Speaking fluently and reading/writing with good proficiency
+> * `Swedish` Intermediate, learning
 
-> * `2007` UNESCO ASPnet Conference, Amman, <accronym title="Jordan">JOR</accronym>
-> * `2007` Life-Link Friendship-Schools Conference, Sigtuna, <accronym title="Sweden">SWE</accronym>
-> * `2007` UNESCO ASPnet Training Workshop, Amman, <accronym title="Jordan">JOR</accronym>
-> * `2006` Global Education Week preparatory meeting, Sinaia, <accronym title="Romania">ROU</accronym>
-> * `2003` International Peace Bureau’s Conference, Athens, <accronym title="Greece">GRC</accronym>
-> * `2003` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
-> * `2002` Peace Festival, Cluj-Napoca, <accronym title="Romania">ROU</accronym>
-> * `2002` Brat<accronym title="Model of United Nations">MUN</accronym>, Bratislava, <accronym title="Slovakia">SVK</accronym>
-> * `2001` Life-Link Friendship-Schools Conference, Sigtuna, <accronym title="Sweden">SWE</accronym>
-
-#### `2002 - 2006` **.** `Group Leader`
-> *event planning, youth engagement*
-
-> * `2006` Where do I belong to II, Norfolk, <accronym title="United Kingdom">GBR</accronym>
-> * `2005` Where do I belong to, Brno, <accronym title="Czech Republic">CZE</accronym>
-> * `2003` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
-> * `2002` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
+#### ` ` **computer** ` `
+> * Mac OSX, Microsoft Windows
+> * Microsoft Office (Excel, Word, Powerpoint)
+> * StataCorp Stata – data analysis and statistical software
+> * NCSS Statistical Software
