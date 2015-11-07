@@ -1,7 +1,7 @@
 #github.com
 safe: true
 lsi: false
-pygments: true
+highlighter: true #pygments: true
 source: "."
 destination: ./_site
 #plugins: ./_plugins
@@ -19,7 +19,7 @@ show_drafts: false
 markdown: redcarpet
 permalink: none
 relative_permalinks: false
-paginate: true
+#paginate: true
 #exclude:
 #include:
 #limit_posts:
@@ -72,7 +72,7 @@ kramdown:
   smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
   template: ""
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false #use_coderay: false
 
   coderay:
     coderay_wrap: div
