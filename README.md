@@ -110,8 +110,6 @@ title: roula mecherkany cv
 > Managing action reports  
 > Social media
 
-<div class="page-break"></div>
-
 
 
 ## education
@@ -125,6 +123,8 @@ title: roula mecherkany cv
 > Economics
 
 > Courses # FIXME
+
+<div class="page-break"></div>
 
 
 
