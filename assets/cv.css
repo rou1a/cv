@@ -3,16 +3,16 @@ Elements
 */
 
 #timeline {
-    width: 1024px;
-    margin-left: -512px;
-    top: 0px;
-    border-radius: 0px;
+    width:1024px;
+    margin-left:-512px;
+    top:0px;
+    border-radius:0px;
 }
 
 #timeline .modal-body {
-    height: 650px;
-    max-height: 650px;
-    overflow-y: hidden;
+    height:650px;
+    max-height:650px;
+    overflow-y:hidden;
 }
 
 body {
@@ -188,7 +188,7 @@ span.more:hover {
 /*
 Desktop
 */
-@media screen and (min-width: 600px) {
+@media screen and (min-width:600px) {
     h1 + blockquote {
         float:left;
         text-align:right;
@@ -216,7 +216,7 @@ Print
 */
 @media print {
     #timeline-wrapper {
-        display: none;
+        display:none;
     }
     #content > h4 + blockquote,
     #content > h4 + blockquote * {
