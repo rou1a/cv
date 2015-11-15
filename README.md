@@ -46,13 +46,10 @@ title: roula mecherkany cv
 
 > * AARRR  funnel
 > * mobile advertising
-> * cross promotions
-> * onboarding
 > * conversion optimization
 > * email marketing
 > * SMS marketing
 > * push notifications
-> * virality
 > * ...
 > * passionate about
 > * data-driven marketing
@@ -66,7 +63,7 @@ title: roula mecherkany cv
 #### `2014 - 2015` **[True Software Scandinavia AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.truecaller.com)** `CRM Manager`
 > Truecaller is a leading search technology company that is transforming the phonebook with a set of intelligent and useful services. The service has over 200 million users worldwide.
 
-> Optimizing verification of new app users  
+> Optimizing onboarding & verification of new app users  
 > \* Managing partnerships with various SMS providers  
 > \* Identifying improvement opportunities in the verification process  
 
