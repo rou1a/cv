@@ -66,53 +66,57 @@ title: roula mecherkany cv
 #### `2014 - 2015` **[True Software Scandinavia AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.truecaller.com)** `CRM Manager`
 > Truecaller is a leading search technology company that is transforming the phonebook with a set of intelligent and useful services. The service has over 200 million users worldwide.
 
->
 > Optimizing verification of new app users  
 > \* Managing partnerships with various SMS providers  
 > \* Identifying improvement opportunities in the verification process  
 
->  
 > Email campaigns  
 > \* Coordinating template and content creation  
 > \* Coordinating translations  
 > \* Identifying target groups & triggers  
 > \* Carrying out campaign send-outs and evaluations  
+
 > Push notifications  
 > \* Identifying target groups & coordinating campaigns  
 > \* Cross-promoting apps with push notifications & native ads  
-> Creating & carrying out user surveys  
+
+> Creating & carrying out user surveys 
+
 > Managing the FAQ page on [truecaller.com/support](https://www.truecaller.com/support)
 
-> *Mailchimp, Mandrill, Localytics, Jira, Wufoo, OneSky*
+> *Mailchimp, Mandrill, Localytics, Jira, Wufoo, OneSky, basic HTML*
 
 #### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Regional Marketing Manager`
-> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android
+> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
 > Regional Marketing Manager (MENA)  
 > \* Tailoring campaigns for recruiting, activating & retaining users  
 > \* Planning and implementing push notifications schedule  
 > \* Executing SMS send outs  
 > \* Localizing social media content  
-> \* Coordinating with local partners  
+> \* Coordinating with local agencies  
 > \* Managing customer relations  
-> Marketing Analytics  
-> \* Monitoring KPI's and customer behavior in the CRM system  
-> \* Collecting & managing various data in Excel  
-> \* Analyzing campaign results & adjusting accordingly  
-> \* Producing activity & performance reports  
-> Online & Mobile advertising  
+> \* Monitoring KPI's and customer behavior in the CRM system 
+> \* Producing activity & performance reports (CPA, ARPU, LTV, viral coefficient, retention)
+
+> *Parse, Beepsend, Flurry*
+
+#### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Advertising Manager`
+> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
+
+> Advertising Manager  
 > \* In charge of the media budget  
 > \* Planning and buying media with different ad networks
+> \* Localizing & editing banner ads
 
-> *Parse, Beepsend, Google Adwords, Facebook ads*
+> *Google Adwords, Facebook ads, basic Photoshop*
 
 #### `2012 - 2012` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Customer Support`
-> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android
+> [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
-> Assisted customers in their queries via E-mail, Facebook & Twitter  
-> Resolved customer cases  
-> Updated and re-organized the knowledgebase  
-> Reported tickets
+> Resolving customer cases via E-mail, Facebook & Twitter
+> Managing the knowledgebase  
+> Reporting tickets
 
 > *desk.com, lighthouseapp.com*
 
