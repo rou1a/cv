@@ -84,29 +84,29 @@ title: roula mecherkany cv
 
 > Managing the FAQ page on [truecaller.com/support](https://www.truecaller.com/support)
 
+> Communicating requirements for different CRM tools
+
 > *Mailchimp, Mandrill, Localytics, Jira, Wufoo, OneSky, basic HTML*
 
 #### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Regional Marketing Manager`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
-> Regional Marketing Manager (MENA)  
 > \* Tailoring campaigns for recruiting, activating & retaining users  
 > \* Planning and implementing push notifications schedule  
 > \* Executing SMS send outs  
 > \* Localizing social media content  
 > \* Coordinating with local agencies  
 > \* Managing customer relations  
-> \* Monitoring KPI's and customer behavior in the CRM system 
-> \* Producing activity & performance reports (CPA, ARPU, LTV, viral coefficient, retention)
+> \* Monitoring KPI's and customer behavior in the CRM system  
+> \* Producing activity & performance reports (CPA, ARPU, LTV, viral coefficient, retention)  
 
 > *Parse, Beepsend, Flurry*
 
 #### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Advertising Manager`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
-> Advertising Manager  
 > \* In charge of the media budget  
-> \* Planning and buying media with different ad networks
+> \* Planning and buying media with different ad networks  
 > \* Localizing & editing banner ads
 
 > *Google Adwords, Facebook ads, basic Photoshop*
@@ -114,9 +114,9 @@ title: roula mecherkany cv
 #### `2012 - 2012` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Customer Support`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
-> Resolving customer cases via E-mail, Facebook & Twitter
-> Managing the knowledgebase  
-> Reporting tickets
+> \* Resolving customer cases via E-mail, Facebook & Twitter
+> \* Managing the knowledgebase  
+> \* Reporting tickets
 
 > *desk.com, lighthouseapp.com*
 
