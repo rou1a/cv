@@ -53,7 +53,7 @@ title: roula mecherkany cv
 ## experience
 
 #### `2014 - 2015` **[True Software Scandinavia AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.truecaller.com)** `CRM Manager`
-> describe truecaller # FIXME
+> Truecaller is a leading search technology company that is transforming the phonebook with a set of intelligent and useful services. The service has over 200 million users worldwide.
 
 > Optimizing verification of new app users  
 > \* Managing partnerships with various SMS providers  
@@ -69,7 +69,7 @@ title: roula mecherkany cv
 > Creating & carrying out user surveys  
 > Managing the FAQ page on [truecaller.com/support](https://www.truecaller.com/support)
 
-> *Mailchimp, Mandrill, Jira, Wufoo, OneSky*
+> *Mailchimp, Mandrill, Localytics, Jira, Wufoo, OneSky*
 
 #### `2012 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Regional Marketing Manager`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android
