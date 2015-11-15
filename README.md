@@ -42,9 +42,21 @@ title: roula mecherkany cv
 > * native Arabic
 
 
-> ## other stuff # FIXME
+> ## competence
 
+> * experience in: 
+> * AARRR  funnel
+> * mobile advertising
+> * cross promotions
+> * onboarding
+> * conversion optimization
+> * email marketing
+> * SMS marketing
+> * push notifications
+> * virality
 > * ...
+> * passionate about
+> * data-driven marketing
 
 <div class="page-break"></div>
 
