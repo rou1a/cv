@@ -70,6 +70,7 @@ title: roula mecherkany cv
 > Optimizing verification of new app users  
 > \* Managing partnerships with various SMS providers  
 > \* Identifying improvement opportunities in the verification process  
+
 >  
 > Email campaigns  
 > \* Coordinating template and content creation  
