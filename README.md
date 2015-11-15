@@ -114,7 +114,7 @@ title: roula mecherkany cv
 #### `2012 - 2012` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Customer Support`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.
 
-> \* Resolving customer cases via E-mail, Facebook & Twitter
+> \* Resolving customer cases via E-mail, Facebook & Twitter  
 > \* Managing the knowledgebase  
 > \* Reporting tickets
 
@@ -123,10 +123,10 @@ title: roula mecherkany cv
 #### `2010 - 2013` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://www.life-link.org)** `Volunteer`
 > Life-Link is an NGO that promotes cooperation between students around the world through active participation in projects that are vital to our times
 
-> Relationship management  
-> Updating school network database  
-> Managing action reports  
-> Social media
+> \* Relationship management  
+> \* Updating school network database  
+> \* Managing action reports  
+> \* Social media
 
 
 
@@ -135,12 +135,12 @@ title: roula mecherkany cv
 #### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.kth.se/en)** `M.Sc.`
 > Economics of Innovation and Growth
 
-> Courses # FIXME
+> Microeconomics, Macroeconomics, Industrial Dynamics, Managerial Economics, Econometrics, Corporate Finance, Entrepreneurship & Innovation, etc...
 
 #### `2004 - 2008` **[American University of Beirut, Beirut, <accronym title="Lebanon">LBN</accronym>](http://aud.edu.lb)** `B. Sc.`
 > Economics
 
-> Courses # FIXME
+> Microeconomics, Macroeconomics, Econometrics, Accounting, Finance, etc...
 
 <div class="page-break"></div>
 
