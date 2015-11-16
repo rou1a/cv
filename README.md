@@ -85,7 +85,7 @@ title: roula mecherkany cv
 >   
 > *Mailchimp, Mandrill, Localytics, Jira, Wufoo, OneSky, basic HTML*
 
-#### `2013 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Regional Marketing Manager`
+#### `2013 - 2014` **[Zaark AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.zaark.com)** `Regional Marketing Manager - MENA`
 > [Voca](http://www.getvoca.com), previously known as [Plingm](http://www.plingm.com/), is a mobile VoIP application for iOS and Android.  
 >   
 > \* Tailoring campaigns for recruiting, activating & retaining users  
