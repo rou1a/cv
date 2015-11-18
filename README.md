@@ -95,7 +95,7 @@ title: roula mecherkany cv
 > \* Coordinating with local agencies  
 > \* Managing customer relations  
 > \* Monitoring KPI's and customer behavior in the CRM system  
-> \* Producing activity & performance reports (CPA, ARPU, LTV, viral coefficient, retention)  
+> \* Producing activity & performance reports (CPA, ARPU, LTV, DAU, MAU, viral coefficient, retention)  
 >   
 > *Parse, Beepsend, Flurry*
 
