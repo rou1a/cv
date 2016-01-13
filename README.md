@@ -60,6 +60,11 @@ title: roula mecherkany cv
 
 ## experience
 
+#### `2015 - ____` **[Twigeo AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.twigeo.com)** `Performance Marketing Manager`
+> "We do user acquisition for mobile apps"
+>   
+> *.*
+
 #### `2014 - 2015` **[True Software Scandinavia AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.truecaller.com)** `CRM Manager`
 > Truecaller is a leading search technology company that is transforming the phonebook with a set of intelligent and useful services. The service has over 200 million users worldwide.  
 >   
