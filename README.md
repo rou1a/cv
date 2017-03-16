@@ -28,7 +28,7 @@ title: roula mecherkany cv
 
 > roula.mecherkany@gmail.com
 
-> [linkedin](http://se.linkedin.com/in/andreineculau)
+> [linkedin](http://se.linkedin.com/in/roulamecherkany)
 > [twitter](https://twitter.com/rou1a)
 > [.com](http://roula.mecherkany.com)
 
